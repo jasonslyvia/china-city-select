@@ -7,7 +7,7 @@ china-city-select
 
 原作者及项目地址：[http://blog.hpyer.cn/codes/js-auto-change-city-list](http://blog.hpyer.cn/codes/js-auto-change-city-list)
 
-##使用说明
+## 使用说明
 
 ```javascript
 var options = {
@@ -23,6 +23,6 @@ var options = {
 LocalList.mf_init(options);
 ```
 
-##修改说明
+## 修改说明
 
 原作者的代码会生成新的 3 个 select，不支持直接给已有的 select 绑定事件，因此拿来做了小小的改动支持上述特性。
